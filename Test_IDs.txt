@@ -1,0 +1,26 @@
+Test IDs -
+
+1) Test on Chrome + 88.0 + Windows 10
+
+Scenario 1 ID : VYLGA-CC7HV-QRJIZ-K88D4
+Scenario 2 ID : PB2Q1-XPCYS-EPOQA-CLOVK
+Scenario 3 ID : AHJMR-M4GNC-F9RGG-YTCMV
+
+
+2) Test on MicrosoftEdge + 87.0 + macOS Sierra
+
+Scenario 1 ID : KKHH4-MD6WW-7G7PP-3LWTZ
+Scenario 2 ID : BEPK5-ENPJE-CFOB6-L47BD
+Scenario 3 ID : GBTBH-BYM23-JDFUI-RKTOG
+
+3) Test on Firefox + 82.0 + Windows 7
+
+Scenario 1 ID : L7QTE-CYXXX-QLEHC-FXEUM
+Scenario 2 ID : 9TSOM-NLIZC-XUYNB-WTANS
+Scenario 3 ID : JHKCM-XMCMM-4V2DT-YI02D
+
+4) Test on Internet Explorer + 11.0 + Windows 10
+
+Scenario 1 ID : FRGTN-CBDSG-YOOTY-AZYDM
+Scenario 2 ID : TOHBG-EVIS5-XAS8Y-KJ5GX
+Scenario 3 ID : XH8PB-TEFCJ-4F6HM-TS1RJ
